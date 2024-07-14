@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://three-knots.github.io/sitemap.xml
+Sitemap: https://three-knots.github.io/zulal-goods/sitemap.xml
